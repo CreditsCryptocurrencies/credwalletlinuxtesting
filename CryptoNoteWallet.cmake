@@ -1,0 +1,4 @@
+set(CN_PROJECT_NAME "Credwallet")
+set(CN_CURRENCY_DISPLAY_NAME "credwallet")
+set(CN_CURRENCY_TICKER "CX")
+set(CN_VERSION 0.0.1)
